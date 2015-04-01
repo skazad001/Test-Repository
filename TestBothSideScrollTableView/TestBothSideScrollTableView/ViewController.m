@@ -39,7 +39,7 @@
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
 }
-//Change by Azad
+
 - (NSInteger)numberOfSectionsInTableView:(UITableView *)tableView
 {
     return arr.count;
